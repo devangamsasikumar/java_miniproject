@@ -17,7 +17,7 @@ public class JTicTacToe extends JApplet implements ActionListener
         private final String X = "X";
         private final String O = "O";
         private boolean turn = true;
- // End of variables declaration
+ //End of variables declaration
  /** initialize components */
  public void init()
  {
